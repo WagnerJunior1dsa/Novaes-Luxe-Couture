@@ -1298,6 +1298,7 @@ section {
   box-shadow: none;
   font-size: 14px;
   border-radius: 4px;
+  resize: none;
 }
 
 .contact .php-email-form input:focus,
@@ -1311,6 +1312,7 @@ section {
 
 .contact .php-email-form textarea {
   padding: 10px 12px;
+  resize: none;
 }
 
 .contact .php-email-form button[type=submit] {
